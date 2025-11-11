@@ -1,0 +1,33 @@
+STEP-BY-STEP: Adding HTTP 500 Technical Guide to GitHub
+
+After cloning your repository in GitHub Desktop:
+
+1. Find your cloned repository folder (probably at):
+   C:\Users\bryan_57mqris\Documents\GitHub\error-code-reports
+
+2. Copy this file to that folder:
+   C:\Users\bryan_57mqris\OneDrive\Documents\Claude_Content\error-code-reports\http-500-error-technical-guide-github.html
+   
+   TO:
+   
+   C:\Users\bryan_57mqris\Documents\GitHub\error-code-reports\http-500-error-technical-guide-github.html
+
+3. In GitHub Desktop, you'll see the new file appear in the "Changes" tab
+
+4. In the bottom left:
+   - Summary box: Type "Add HTTP 500 technical guide"
+   - Click "Commit to main"
+
+5. Click "Push origin" button at the top
+
+6. Wait 2-3 minutes, then visit:
+   https://sendclickconvert.github.io/error-code-reports/http-500-error-technical-guide-github.html
+
+DONE! Your file is now published.
+
+Next time you want to add or update files:
+1. Make changes in the repository folder
+2. Open GitHub Desktop
+3. Review changes
+4. Commit with a message
+5. Push origin
