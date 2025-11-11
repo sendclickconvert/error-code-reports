@@ -1,0 +1,25 @@
+The BSOD guide with correct claude.ai links is ready.
+
+OPTION 1 - Download from my outputs:
+1. Download this file: bsod-troubleshooting-guide-github-2025.html
+2. Rename it to: windows-bsod-fix.html
+3. Replace the file in: C:\Users\bryan_57mqris\OneDrive\Documents\Claude_Content\error-code-reports\
+4. Then push to GitHub with:
+   cd "C:\Users\bryan_57mqris\OneDrive\Documents\Claude_Content\error-code-reports"
+   git add windows-bsod-fix.html
+   git commit -m "Update links to Claude artifact"  
+   git push
+
+OPTION 2 - Edit directly on GitHub:
+1. Go to: https://github.com/sendclickconvert/error-code-reports
+2. Click on windows-bsod-fix.html
+3. Click the pencil icon to edit
+4. Find and replace all instances of the old link with:
+   https://claude.ai/public/artifacts/e16a9b55-50d6-4
+5. Commit changes
+
+The file should have the links updated in 4 places:
+- Header navigation
+- Banner section
+- Inside the "Critical First Step" tip box
+- Final CTA section at bottom
